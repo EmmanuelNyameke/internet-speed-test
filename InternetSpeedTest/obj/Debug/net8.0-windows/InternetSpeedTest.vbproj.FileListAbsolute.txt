@@ -1,0 +1,17 @@
+C:\Users\HELLO\Source\Repos\InternetSpeedTest\bin\Debug\net8.0-windows\InternetSpeedTest.exe
+C:\Users\HELLO\Source\Repos\InternetSpeedTest\bin\Debug\net8.0-windows\InternetSpeedTest.deps.json
+C:\Users\HELLO\Source\Repos\InternetSpeedTest\bin\Debug\net8.0-windows\InternetSpeedTest.runtimeconfig.json
+C:\Users\HELLO\Source\Repos\InternetSpeedTest\bin\Debug\net8.0-windows\InternetSpeedTest.dll
+C:\Users\HELLO\Source\Repos\InternetSpeedTest\bin\Debug\net8.0-windows\InternetSpeedTest.pdb
+C:\Users\HELLO\Source\Repos\InternetSpeedTest\obj\Debug\net8.0-windows\InternetSpeedTest.vbproj.GenerateResource.cache
+C:\Users\HELLO\Source\Repos\InternetSpeedTest\obj\Debug\net8.0-windows\InternetSpeedTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELLO\Source\Repos\InternetSpeedTest\obj\Debug\net8.0-windows\InternetSpeedTest.AssemblyInfoInputs.cache
+C:\Users\HELLO\Source\Repos\InternetSpeedTest\obj\Debug\net8.0-windows\InternetSpeedTest.AssemblyInfo.vb
+C:\Users\HELLO\Source\Repos\InternetSpeedTest\obj\Debug\net8.0-windows\InternetSpeedTest.vbproj.CoreCompileInputs.cache
+C:\Users\HELLO\Source\Repos\InternetSpeedTest\obj\Debug\net8.0-windows\InternetSpeedTest.dll
+C:\Users\HELLO\Source\Repos\InternetSpeedTest\obj\Debug\net8.0-windows\refint\InternetSpeedTest.dll
+C:\Users\HELLO\Source\Repos\InternetSpeedTest\obj\Debug\net8.0-windows\InternetSpeedTest.pdb
+C:\Users\HELLO\Source\Repos\InternetSpeedTest\obj\Debug\net8.0-windows\InternetSpeedTest.genruntimeconfig.cache
+C:\Users\HELLO\Source\Repos\InternetSpeedTest\obj\Debug\net8.0-windows\ref\InternetSpeedTest.dll
+C:\Users\HELLO\Source\Repos\InternetSpeedTest\obj\Debug\net8.0-windows\InternetSpeedTest.frmInternet.resources
+C:\Users\HELLO\Source\Repos\InternetSpeedTest\obj\Debug\net8.0-windows\InternetSpeedTest.Resources.resources
